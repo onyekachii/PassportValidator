@@ -1,0 +1,7 @@
+{
+  "imagesFolderPath": "C:\\Users\\ugwu_\\Documents\\Notwhite",
+  "MinimumFaceAreaByPercentage": "16",
+  "PassportBackgroundColor": "white",
+  "bgThreshold": "280",
+  "pixelValidityThreshold": "80"
+}
